@@ -1,0 +1,385 @@
+{
+  "ME4402": [
+    {
+      "file": "books/Thermal engineering by Mahesh M. Rathore.pdf",
+      "title": "Thermal Engineering",
+      "author": "Mahesh M. Rathore",
+      "edition": "1st",
+      "publisher": "Tata McGraw Hill",
+      "year": "2010",
+      "book_type": "textbook"
+    }
+  ],
+  "GE4105": [
+    {
+      "file": "books/7.THINK PYTHON_HOW TO THINK LIKE A COMPUTER SCIENTIST.pdf",
+      "title": "Think Python: How to Think Like a Computer Scientist",
+      "author": "Allen B. Downey",
+      "edition": "2nd",
+      "publisher": "Green Tea Press",
+      "year": "2015",
+      "book_type": "textbook"
+    },
+    {
+      "file": "books/10.Introduction to Computation and Programming Using Python by John V. Guttag (z-lib.org).pdf",
+      "title": "Introduction to Computation and Programming Using Python",
+      "author": "John V. Guttag",
+      "edition": "Revised and Expanded",
+      "publisher": "MIT Press",
+      "year": "2013",
+      "book_type": "reference"
+    },
+    {
+      "file": "books/8.AN INTRODUCTION TO PYTHON.pdf",
+      "title": "An Introduction to Python",
+      "author": "Guido van Rossum, Fred L. Drake",
+      "edition": "2.2.2",
+      "publisher": "PythonLabs",
+      "year": "2002",
+      "book_type": "reference"
+    },
+    {
+      "file": "books/15.Practical Programming.pdf",
+      "title": "Practical Programming: An Introduction to Computer Science Using Python",
+      "author": "Jennifer Campbell, Paul Gries, Jason Montojo, Greg Wilson",
+      "edition": "1st",
+      "publisher": "Pragmatic Bookshelf",
+      "year": "2009",
+      "book_type": "reference"
+    },
+    {
+      "file": "books/16.Python-Cookbook-3rd-Edition.pdf",
+      "title": "Python Cookbook",
+      "author": "David Beazley, Brian K. Jones",
+      "edition": "3rd",
+      "publisher": "O'Reilly",
+      "year": "2013",
+      "book_type": "reference"
+    }
+  ],
+  "MA4202": [
+    {
+      "file": "books/17.Numerical Analysis-II.pdf",
+      "title": "Numerical Analysis",
+      "author": "Richard L. Burden, J. Douglas Faires",
+      "edition": "9th",
+      "publisher": "Cengage Learning",
+      "year": "2016",
+      "book_type": "reference"
+    },
+    {
+      "file": "books/19.Applied Numerical Analysis.pdf",
+      "title": "Applied Numerical Analysis",
+      "author": "Curtis F. Gerald, Patrick O. Wheatley",
+      "edition": "7th",
+      "publisher": "Pearson Education",
+      "year": "2004",
+      "book_type": "reference"
+    },
+    {
+      "file": "books/20,FUNDAMENTAL OF MATHEMATICAL STATISTICS-S C GUPTA & V K KAPOOR.pdf",
+      "title": "Fundamentals of Mathematical Statistics",
+      "author": "S. C. Gupta, V. K. Kapoor",
+      "edition": "11th",
+      "publisher": "Sultan Chand & Sons",
+      "year": "2014",
+      "book_type": "reference"
+    },
+    {
+      "file": "books/51.Hsu H.P. Probability, Random Variables and Random Processes.pdf",
+      "title": "Schaum's Outline of Probability, Random Variables, and Random Processes",
+      "author": "Hwei P. Hsu",
+      "edition": "1st",
+      "publisher": "McGraw-Hill",
+      "year": "1997",
+      "book_type": "reference"
+    },
+    {
+      "file": "books/49.statbook3.pdf",
+      "title": "Introduction to Probability and Statistics for Engineers and Scientists",
+      "author": "Sheldon M. Ross",
+      "edition": "5th",
+      "publisher": "Academic Press",
+      "year": "2014",
+      "book_type": "reference"
+    }
+  ],
+  "BE4251": [
+    {
+      "file": "books/29.A_K_Sawhney_A_course_in_Electrical_and_E.pdf",
+      "title": "A Course in Electrical & Electronic Measurements & Instrumentation",
+      "author": "A. K. Sawhney, Puneet Sawhney",
+      "edition": "19th",
+      "publisher": "Dhanpat Rai",
+      "year": "2011",
+      "book_type": "textbook"
+    },
+    {
+      "file": "books/31.DIGITAL_ELECTRONICS-by-Flyod.pdf",
+      "title": "Digital Fundamentals",
+      "author": "Thomas L. Floyd",
+      "edition": "11th",
+      "publisher": "Pearson Education",
+      "year": "2017",
+      "book_type": "reference"
+    },
+    {
+      "file": "books/32.toaz.info-electronic-principles-7th-edition-by-albert-malvino-pr_21a68932a5c7501238faf0e3c5dbacc0 (1).pdf",
+      "title": "Electronic Principles",
+      "author": "Albert Malvino, David Bates",
+      "edition": "7th",
+      "publisher": "McGraw-Hill",
+      "year": "2017",
+      "book_type": "reference"
+    },
+    {
+      "file": "books/33.Copy of Schaum - Electric Circuits.pdf",
+      "title": "Electric Circuits (Schaum's Outline Series)",
+      "author": "Mahmood Nahvi, Joseph A. Edminister",
+      "edition": "4th",
+      "publisher": "McGraw-Hill",
+      "year": "2003",
+      "book_type": "reference"
+    }
+  ],
+  "IT4351": [
+    {
+      "file": "books/66.dS&A Book By Alfred -Aho.pdf",
+      "title": "Data Structures and Algorithms",
+      "author": "Alfred V. Aho, John E. Hopcroft, Jeffrey D. Ullman",
+      "edition": "1st",
+      "publisher": "Addison-Wesley",
+      "year": "1983",
+      "book_type": "reference"
+    },
+    {
+      "file": "books/11.INTRODUCTION TO PROGRAMMING IN PYTHON_A INTER-DISCIPLINARY APPROCH.pdf",
+      "title": "Introduction to Programming in Python: An Interdisciplinary Approach",
+      "author": "Robert Sedgewick, Kevin Wayne, Robert Dondero",
+      "edition": "1st",
+      "publisher": "Addison-Wesley",
+      "year": "2015",
+      "book_type": "reference"
+    }
+  ],
+  "AD4351": [
+    {
+      "file": "books/41.introducing-data-science-machine-learning-python.pdf",
+      "title": "Introducing Data Science: Big Data, Machine Learning, and More, Using Python Tools",
+      "author": "Davy Cielen, Arno D. B. Meysman, Mohamed Ali",
+      "edition": "1st",
+      "publisher": "Manning Publications",
+      "year": "2016",
+      "book_type": "reference"
+    },
+    {
+      "file": "books/42.thinkstats2.pdf",
+      "title": "Think Stats: Exploratory Data Analysis in Python",
+      "author": "Allen B. Downey",
+      "edition": "2nd",
+      "publisher": "Green Tea Press",
+      "year": "2014",
+      "book_type": "reference"
+    },
+    {
+      "file": "books/86.bart-baesens-analytics-in-a-big-data-world.-the-essential-guide-to-data-science-and-its-applications-wiley-2014.pdf",
+      "title": "Analytics in a Big Data World",
+      "author": "Bart Baesens",
+      "edition": "1st",
+      "publisher": "Wiley",
+      "year": "2014",
+      "book_type": "reference"
+    }
+  ],
+  "AD4301": [
+    {
+      "file": "books/44.artificial-intelligence-rich-knight.pdf",
+      "title": "Artificial Intelligence",
+      "author": "Elaine Rich, Kevin Knight, Shivashankar B Nair",
+      "edition": "3rd",
+      "publisher": "McGraw-Hill",
+      "year": "2008",
+      "book_type": "reference"
+    }
+  ],
+  "IT4454": [
+    {
+      "file": "books/64.Cormen Introduction to Algorithms.pdf",
+      "title": "Introduction to Algorithms",
+      "author": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein",
+      "edition": "3rd",
+      "publisher": "MIT Press",
+      "year": "2009",
+      "book_type": "reference"
+    },
+    {
+      "file": "books/65.skienathealgorithmdesignmanual.pdf",
+      "title": "The Algorithm Design Manual",
+      "author": "Steven S. Skiena",
+      "edition": "2nd",
+      "publisher": "Springer",
+      "year": "2008",
+      "book_type": "reference"
+    },
+    {
+      "file": "books/63.(R18A0507)Design and Analysis of Algorithms.pdf",
+      "title": "Design and Analysis of Algorithms Lecture Notes",
+      "author": "MRCET",
+      "edition": "1st",
+      "publisher": "MRCET",
+      "year": "2021",
+      "book_type": "reference"
+    }
+  ],
+  "AD4501": [
+    {
+      "file": "books/125.Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf",
+      "title": "Pattern Recognition and Machine Learning",
+      "author": "Christopher M. Bishop",
+      "edition": "1st",
+      "publisher": "Springer",
+      "year": "2006",
+      "book_type": "reference"
+    },
+    {
+      "file": "books/121.ISLR_First_Printing.pdf",
+      "title": "An Introduction to Statistical Learning: with Applications in R",
+      "author": "Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani",
+      "edition": "1st",
+      "publisher": "Springer",
+      "year": "2013",
+      "book_type": "reference"
+    },
+    {
+      "file": "books/120.BookAdvanced.pdf",
+      "title": "The Elements of Statistical Learning: Data Mining, Inference, and Prediction",
+      "author": "Trevor Hastie, Robert Tibshirani, Jerome Friedman",
+      "edition": "2nd",
+      "publisher": "Springer",
+      "year": "2009",
+      "book_type": "reference"
+    }
+  ],
+  "IT4553": [
+    {
+      "file": "books/68.Modern Full-Stack Development_ Using TypeScript, React, Node.js, Webpack, and Docker-Apress (2020)-1-5.pdf",
+      "title": "Modern Full-Stack Development",
+      "author": "Frank Zammetti",
+      "edition": "1st",
+      "publisher": "Apress",
+      "year": "2020",
+      "book_type": "textbook"
+    },
+    {
+      "file": "books/74.Robin Wieruch - The Road to React.pdf",
+      "title": "The Road to React",
+      "author": "Robin Wieruch",
+      "edition": "2021",
+      "publisher": "Robin Wieruch",
+      "year": "2021",
+      "book_type": "reference"
+    },
+    {
+      "file": "books/69.9780321995780.pdf",
+      "title": "Node.js, MongoDB, and AngularJS Web Development",
+      "author": "Brad Dayley",
+      "edition": "2nd",
+      "publisher": "Addison-Wesley",
+      "year": "2017",
+      "book_type": "textbook"
+    }
+  ],
+  "CS4861": [
+    {
+      "file": "books/94.D.Watt.pdf",
+      "title": "Programming Language Design Concepts",
+      "author": "David A. Watt",
+      "edition": "1st",
+      "publisher": "Wiley",
+      "year": "2004",
+      "book_type": "reference"
+    },
+    {
+      "file": "books/94.Programming Languages_ Principles and Paradigms ( PDFDrive ).pdf",
+      "title": "Programming Languages: Principles and Paradigms",
+      "author": "Maurizio Gabbrielli, Simone Martini",
+      "edition": "1st",
+      "publisher": "Springer",
+      "year": "2010",
+      "book_type": "textbook"
+    }
+  ],
+  "AD4862": [
+    {
+      "file": "books/99.John W. Rittinghouse.pdf",
+      "title": "Cloud Computing: Implementation, Management, and Security",
+      "author": "John W. Rittinghouse, James F. Ransome",
+      "edition": "1st",
+      "publisher": "CRC Press",
+      "year": "2009",
+      "book_type": "textbook"
+    },
+    {
+      "file": "books/101cloud-application-architectures-oreilly-media.pdf",
+      "title": "Cloud Application Architectures",
+      "author": "George Reese",
+      "edition": "1st",
+      "publisher": "O'Reilly",
+      "year": "2009",
+      "book_type": "reference"
+    }
+  ],
+  "AD4522": [
+    {
+      "file": "books/99.John W. Rittinghouse.pdf",
+      "title": "Cloud Computing: Implementation, Management, and Security",
+      "author": "John W. Rittinghouse, James F. Ransome",
+      "edition": "1st",
+      "publisher": "CRC Press",
+      "year": "2009",
+      "book_type": "textbook"
+    },
+    {
+      "file": "books/102.Principles of Information Security by Whitman, Michael Mattord, Herbert (z-lib.org).pdf",
+      "title": "Principles of Information Security",
+      "author": "Michael E. Whitman, Herbert J. Mattord",
+      "edition": "6th",
+      "publisher": "Cengage Learning",
+      "year": "2018",
+      "book_type": "reference"
+    }
+  ],
+  "AD4644": [
+    {
+      "file": "books/113.Baars Gage 2010 Cognition, Brain and Consciousness (2nd edition).pdf",
+      "title": "Cognition, Brain, and Consciousness: Introduction to Cognitive Neuroscience",
+      "author": "Bernard J. Baars, Nicole M. Gage",
+      "edition": "2nd",
+      "publisher": "Academic Press",
+      "year": "2010",
+      "book_type": "textbook"
+    }
+  ],
+  "AD4514": [
+    {
+      "file": "books/125.Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf",
+      "title": "Pattern Recognition and Machine Learning",
+      "author": "Christopher M. Bishop",
+      "edition": "1st",
+      "publisher": "Springer",
+      "year": "2006",
+      "book_type": "textbook"
+    }
+  ],
+  "AD4524": [
+    {
+      "file": "books/109.ABUIABA9GAAgxLqCuwYojOPTXQ.pdf",
+      "title": "Neural Network Methods in Natural Language Processing",
+      "author": "Yoav Goldberg",
+      "edition": "1st",
+      "publisher": "Morgan & Claypool",
+      "year": "2017",
+      "book_type": "reference"
+    }
+  ]
+}

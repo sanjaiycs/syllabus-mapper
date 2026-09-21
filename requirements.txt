@@ -1,0 +1,15 @@
+PyMuPDF
+pdfplumber
+pdf2image
+pytesseract
+rapidfuzz
+
+# Gemini backend (recommended -- default):
+google-genai
+
+# Ollama backend (local/offline alternative): pip install ollama
+# OpenAI-compatible backend (alternative): pip install openai
+
+# OmniRoute backend (alternative -- multi-provider gateway w/ auto-fallback):
+#   pip install openai   (OmniRoute is OpenAI-API-compatible, so the openai
+#   SDK is all you need on the client side)
